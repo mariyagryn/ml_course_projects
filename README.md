@@ -1,4 +1,4 @@
-# ml_course_projects
+# ML course projects
 
 Notebooks and small projects created while studying machine learning with Python and Google Colab.
 
