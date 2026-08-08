@@ -1,8 +1,3 @@
-"""Preprocessing utilities for the Bank Customer Churn Prediction dataset.
-
-The functions in this module are used by the Decision Tree homework.
-"""
-
 from typing import List, Optional, Tuple
 
 import numpy as np
